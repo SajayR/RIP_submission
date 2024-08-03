@@ -27,8 +27,6 @@ The fundamental building block of our model is the Mamba block, which processes 
 9: 𝒀 ∶ (𝐵, 𝑉 , 𝐷) ← **Linear**(𝑦 ′ ) {Linear Projection}  
 Where ⊗ denotes element-wise multiplication.  
 
-\[From [https://arxiv.org/pdf/2403.11144](https://arxiv.org/pdf/2403.11144)\]
-
 #### **2\. Methodology**
 
 **2.1 Single View Model**  
